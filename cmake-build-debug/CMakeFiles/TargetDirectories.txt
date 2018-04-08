@@ -1,0 +1,3 @@
+/home/silek/Dropbox/sdu/bachelor/repo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/silek/Dropbox/sdu/bachelor/repo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/silek/Dropbox/sdu/bachelor/repo/cmake-build-debug/CMakeFiles/autoencoder.dir

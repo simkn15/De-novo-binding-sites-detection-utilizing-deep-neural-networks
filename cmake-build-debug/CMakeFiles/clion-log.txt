@@ -1,0 +1,6 @@
+/home/silek/bin/clion-2017.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/silek/Dropbox/sdu/bachelor/repo
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: autoencoder
+CMake Error: Cannot determine link language for target "autoencoder".
+-- Generating done
+-- Build files have been written to: /home/silek/Dropbox/sdu/bachelor/repo/cmake-build-debug
