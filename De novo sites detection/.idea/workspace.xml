@@ -2,21 +2,161 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4849e0bc-1108-428b-a455-2a3e71563b39" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autoencoder/autoencoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autoencoder/autoencoderOld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Convolutional Neural Network/cnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Convolutional Neural Network/cnnBackup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VariationalAutoencoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autoencoder/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autoencoder/autoencoder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autoencoder/simpleAutoencoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Autoencoder/autoencoderMnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/I_&lt;3_U_LSTM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/cnn.best.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/cnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/cnnBackup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/cnnImages.best.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/dna_TCCCACAAAC_2000_100.fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/graph/imageProfiles_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/graph/imageProfiles_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/graph/imageProfiles_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/graph/imageProfiles_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/graph/imageProfiles_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/graph/imageProfiles_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/graph/imageProfiles_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/graph/imageProfiles_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/graph/imageProfiles_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/graph/imageProfiles_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfilesConvLayer_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfiles_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfiles_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfiles_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfiles_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfiles_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfiles_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfiles_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfiles_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfiles_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/imageProfiles_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/lstm_mod2.best.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/modelImages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/netw_akriti.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/plotsOnlyNucleotides/imageProfilesConvLayer_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/profiles_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/profiles_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/profiles_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/profiles_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/profiles_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/profiles_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/profiles_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/profiles_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/profiles_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/profiles_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/testProfiles_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/testProfiles_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/testProfiles_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/testProfiles_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/testProfiles_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/testProfiles_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/testProfiles_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/testProfiles_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/testProfiles_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convolutional Neural Network/testProfiles_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mds.py" beforeDir="false" afterPath="$PROJECT_DIR$/mds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.R" beforeDir="false" afterPath="$PROJECT_DIR$/test.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autoencoder/.idea/dictionaries/silek.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autoencoder/zip.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +167,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/autoencoder$mds.coverage" NAME="mds Coverage Results" MODIFIED="1521469257004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/De_novo_sites_detection$cnn.coverage" NAME="cnn Coverage Results" MODIFIED="1523002753267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Convolutional Neural Network" />
+    <SUITE FILE_PATH="coverage/De_novo_sites_detection$cnn.coverage" NAME="cnn Coverage Results" MODIFIED="1523807271829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn" />
     <SUITE FILE_PATH="coverage/autoencoder$autoencoder.coverage" NAME="autoencoder Coverage Results" MODIFIED="1520776603217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/autoencoder$zip.coverage" NAME="zip Coverage Results" MODIFIED="1521447048047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -46,82 +186,41 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.375817">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="autoencoder.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Autoencoder/autoencoder.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="5130">
-                  <caret line="291" column="63" selection-start-line="291" selection-start-column="63" selection-end-line="291" selection-end-column="63" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="mds.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/mds.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="396">
-                  <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-                  <folding>
-                    <element signature="e#0#18#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="netw_akriti.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/netw_akriti.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="335">
-                  <caret line="158" column="28" selection-start-line="158" selection-start-column="28" selection-end-line="158" selection-end-column="28" />
-                  <folding>
-                    <element signature="e#0#43#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="dna_TCCCACAAAC_2000_100.fa" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/dna_TCCCACAAAC_2000_100.fa">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="18">
-                  <caret line="1" column="99" selection-start-line="1" selection-start-column="99" selection-end-line="1" selection-end-column="99" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="cnn.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/cnn.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="202">
-                  <caret line="321" column="26" lean-forward="true" selection-start-line="321" selection-start-column="26" selection-end-line="321" selection-end-column="26" />
-                  <folding>
-                    <element signature="e#0#43#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="cnnBackup.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/cnnBackup.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3942">
-                  <caret line="226" column="38" selection-start-line="226" selection-start-column="38" selection-end-line="226" selection-end-column="38" />
-                  <folding>
-                    <element signature="e#0#43#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="mds.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mds.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cnn.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cnn/cnn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="352" column="36" lean-forward="true" selection-start-line="352" selection-start-column="36" selection-end-line="352" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dna_TCCCACAAAC_2000_100.fa" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/dna_TCCCACAAAC_2000_100.fa">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61506">
+              <caret line="3417" column="76" selection-start-line="3417" selection-start-column="76" selection-end-line="3417" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,7 +231,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>_standardize_weights</find>
       <find>ccgggacggagacccttgtagaatagatgatggccaacagatggataacttattgcgggcaaagaaatgactttccggcaacgGAACTACTTAaaaacta</find>
       <find>ccgggacga</find>
       <find>atactggg</find>
@@ -161,6 +259,8 @@
       <find>flatte</find>
       <find>i</find>
       <find>testPro</find>
+      <find>dimen</find>
+      <find>self.dimensions</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -195,8 +295,10 @@
         <option value="$PROJECT_DIR$/Autoencoder/autoencoder.py" />
         <option value="$PROJECT_DIR$/Convolutional Neural Network/cnnBackup.py" />
         <option value="$PROJECT_DIR$/Convolutional Neural Network/netw_akriti.py" />
-        <option value="$PROJECT_DIR$/mds.py" />
         <option value="$PROJECT_DIR$/Convolutional Neural Network/cnn.py" />
+        <option value="$PROJECT_DIR$/cnn/cnnBackup.py" />
+        <option value="$PROJECT_DIR$/mds.py" />
+        <option value="$PROJECT_DIR$/cnn/cnn.py" />
       </list>
     </option>
   </component>
@@ -207,26 +309,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2202" />
-    <option name="y" value="34" />
-    <option name="width" value="956" />
-    <option name="height" value="520" />
+    <option name="x" value="1571" />
+    <option name="y" value="463" />
+    <option name="width" value="1922" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
+    <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -245,22 +338,60 @@
             <path>
               <item name="De novo sites detection" type="b2602c69:ProjectViewProjectNode" />
               <item name="De novo sites detection" type="462c0819:PsiDirectoryNode" />
-              <item name="Convolutional Neural Network" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="De novo sites detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="De novo sites detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="De novo sites detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="De novo sites detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="De novo sites detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="keras" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="De novo sites detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="keras" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -350,31 +481,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Convolutional Neural Network" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Convolutional Neural Network/cnn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="cnnBackup" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="De novo sites detection" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Convolutional Neural Network" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Convolutional Neural Network/cnnBackup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnn/cnn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,25 +506,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mds.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="netw_akriti" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="De novo sites detection" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Convolutional Neural Network" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Convolutional Neural Network/netw_akriti.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -592,17 +685,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.netw_akriti" />
       <item itemvalue="Python.cnn" />
-      <item itemvalue="Python.cnnBackup" />
       <item itemvalue="Python.mds" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.cnn" />
         <item itemvalue="Python.mds" />
-        <item itemvalue="Python.netw_akriti" />
-        <item itemvalue="Python.cnnBackup" />
       </list>
     </recent_temporary>
   </component>
@@ -634,16 +723,16 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928678" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" x="0" y="0" width="591" height="1243" id="Documentation" order="5" sideWeight="0.5010142" side_tool="true" visible="true" weight="0.35481304" />
+      <window_info active="true" anchor="right" x="0" y="0" width="431" height="851" id="Documentation" order="5" sideWeight="0.50511247" side_tool="true" visible="true" weight="0.35719967" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928678" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32756758" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25075987" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3275076" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50271446" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.035799522" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28228387" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32975337" />
-      <window_info anchor="right" x="3302" y="186" width="998" height="1318" id="SciView" order="4" sideWeight="0.4989858" visible="true" weight="0.35481304" />
+      <window_info anchor="right" x="3302" y="186" width="998" height="1318" id="SciView" order="4" sideWeight="0.49488753" weight="0.28361177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3974164" />
@@ -651,10 +740,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32852808" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32972974" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282559" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" visible="true" weight="0.32901752" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -669,60 +758,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Autoencoder/autoencoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5130">
-          <caret line="291" column="63" selection-start-line="291" selection-start-column="63" selection-end-line="291" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mds.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/dna_TCCCACAAAC_2000_100.fa">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="99" selection-start-line="1" selection-start-column="99" selection-end-line="1" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/netw_akriti.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2718">
-          <caret line="158" column="28" selection-start-line="158" selection-start-column="28" selection-end-line="158" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/cnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5814">
-          <caret line="330" column="31" lean-forward="true" selection-start-line="330" selection-start-column="31" selection-end-line="330" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/cnnBackup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3942">
-          <caret line="226" column="38" selection-start-line="226" selection-start-column="38" selection-end-line="226" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/netw_akriti.py" />
+    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/cnn.py" />
+    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/cnnBackup.py" />
     <entry file="file://$PROJECT_DIR$/data/dna_['CAGTCATTCC']_1000_100_1_nch_0.fa">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26964">
@@ -814,13 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/keras/engine/training.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="544" column="6" selection-start-line="544" selection-start-column="6" selection-end-line="544" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/keras/layers/core.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -860,13 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3060">
           <caret line="170" column="61" selection-start-line="170" selection-start-column="61" selection-end-line="170" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/keras/engine/topology.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="2732" column="31" lean-forward="true" selection-start-line="2732" selection-start-column="31" selection-end-line="2732" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -928,13 +952,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/dna_TCCCACAAAC_2000_100.fa">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="99" selection-start-line="1" selection-start-column="99" selection-end-line="1" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/keras/layers/convolutional.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1736">
@@ -942,23 +959,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/cnnBackup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3942">
-          <caret line="226" column="38" selection-start-line="226" selection-start-column="38" selection-end-line="226" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Autoencoder/autoencoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5130">
-          <caret line="291" column="63" selection-start-line="291" selection-start-column="63" selection-end-line="291" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/cnnBackup.py" />
     <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/numpy/core/fromnumeric.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1070">
@@ -966,30 +967,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/netw_akriti.py">
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/tensorflow/python/framework/common_shapes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="158" column="28" selection-start-line="158" selection-start-column="28" selection-end-line="158" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="44">
+          <caret line="646" column="16" selection-start-line="646" selection-start-column="16" selection-end-line="646" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/keras/layers/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="679" selection-start-line="679" selection-end-line="679" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/keras/legacy/interfaces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/keras/initializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="916">
+          <caret line="208" selection-start-line="208" selection-end-line="208" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/keras/engine/topology.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="410" selection-start-line="410" selection-end-line="410" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/netw_akriti.py" />
+    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/dna_TCCCACAAAC_2000_100.fa" />
+    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/cnn.py" />
+    <entry file="file://$PROJECT_DIR$/Autoencoder/autoencoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5634">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/netw_akriti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3330">
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/dna_TCCCACAAAC_2000_100.fa">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61506">
+          <caret line="3417" column="76" selection-start-line="3417" selection-start-column="76" selection-end-line="3417" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/cnnBackup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/site-packages/keras/optimizers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="165" column="30" lean-forward="true" selection-start-line="165" selection-start-column="30" selection-end-line="165" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mds.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="54">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Convolutional Neural Network/cnn.py">
+    <entry file="file://$PROJECT_DIR$/cnn/cnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="321" column="26" lean-forward="true" selection-start-line="321" selection-start-column="26" selection-end-line="321" selection-end-column="26" />
+        <state relative-caret-position="523">
+          <caret line="352" column="36" lean-forward="true" selection-start-line="352" selection-start-column="36" selection-end-line="352" selection-end-column="36" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>

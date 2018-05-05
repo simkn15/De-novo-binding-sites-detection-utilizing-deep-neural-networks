@@ -43,8 +43,8 @@ mds3$points
 x <- mds3$points[,1]
 y <- mds3$points[,2]
 z <- mds3$points[,3]
-scatterplot3d(x, y, z)
-plot3d(x = x, y = y, z = z)
+# scatterplot3d(x, y, z)
+plot3d(mds$points)
 m <- matrix(0, nrow = size, ncol = size)
 m[upper.tri(m)] <- dist(mds3$points)
 m <- m + t(m) - diag(diag(m))

@@ -5,7 +5,7 @@ from scipy.spatial import distance
 from mpl_toolkits.mplot3d import Axes3D
 
 # Dissimilarity matrix
-dimensions = 15
+dimensions = 14
 size = 16
 dissimilarities = np.zeros((size, size))
 dissimilarities.fill(255)
